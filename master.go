@@ -5,7 +5,6 @@ import (
   "encoding/csv"
   "strconv"
   "bytes"
-"fmt"
 )
 
 func (h HLSMaster) Type() string {
